@@ -30,6 +30,7 @@ switch (true) {
   default:
     nivel = "Radiante";
 }
+
 // Exibindo a mensagem final
 console.log("O Herói de nome " + nome + " está no nível de " + nivel + "!");
 
